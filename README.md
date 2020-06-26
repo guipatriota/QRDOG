@@ -53,4 +53,5 @@ ___________________
 
 ## Usage
 
-1. Run `python main.py`.<br />
+1. Run `pip install -r requirements.txt`.<br />
+2. Run `python main.py`.<br />
