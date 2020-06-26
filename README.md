@@ -20,6 +20,8 @@ Python project for SVG image generation for 3D printed dog tags - 07/02/2020
 
 ## Preview:
 
+### QRCode generate from this script:
+#### Instagram of @fredweasleythecocker
 ![alt text](https://github.com/guipatriota/QRDOG/blob/master/assets/QRDOG_Fred_Weasley.jpg)
 
 ## Python + PyQRCode
